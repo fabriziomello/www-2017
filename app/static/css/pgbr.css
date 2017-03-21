@@ -22,3 +22,7 @@
 .bsa {
     padding: 2rem;
 }
+
+.hero.is-light .title {
+    color: #f5f5f5;
+}
