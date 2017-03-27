@@ -26,3 +26,11 @@
 .hero.is-light .title {
     color: #f5f5f5;
 }
+
+.pg-map {
+  height: 720px;
+}
+
+.pg-bnt-full {
+  width: 100%;
+}
